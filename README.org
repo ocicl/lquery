@@ -1,0 +1,9 @@
+* lquery
+
+A Common Lisp library to allow jQuery-like HTML/DOM manipulation.
+
+|---------+--------------------------------------------|
+| source  | git:https://github.com/Shinmera/lquery.git |
+| commit  | c4f5568                                    |
+| systems | lquery                                     |
+|---------+--------------------------------------------|
