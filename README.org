@@ -4,6 +4,6 @@ A Common Lisp library to allow jQuery-like HTML/DOM manipulation.
 
 |---------+--------------------------------------------|
 | source  | git:https://github.com/Shinmera/lquery.git |
-| commit  | 1ff172e                                    |
+| commit  | bff2c32                                    |
 | systems | lquery                                     |
 |---------+--------------------------------------------|
